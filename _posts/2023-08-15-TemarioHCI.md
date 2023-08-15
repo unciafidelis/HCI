@@ -4,6 +4,12 @@ title:  "HCI Temario"
 date:   2023-08-15 06:37:14 -0500
 categories: HTML
 ---
+# OBJETIVO GENERAL:
+
+El objetivo fundamental de esta asignatura es abordar los conceptos relacionados con los aspectos de la
+disciplina de la Interacción Humano-Computadora, a través del aprendizaje obtenido en la disciplina, el
+estudiante desarrollará un caso práctico - proyecto integrador, el cual corresponde con la solución final
+del problema de diseño identificado en un escenario de la vida cotidiana. 
 
 ## 1. Fundamentos de Interacción Humano – Computadora (IHC) 
 
