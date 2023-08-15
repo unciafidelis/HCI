@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "HCI Temario"
-date:   2023-08-14 15:02:14 -0500
+date:   2023-08-15 06:37:14 -0500
 categories: HTML
 ---
-
-# HCI
 
 ## 1. Fundamentos de Interacción Humano – Computadora (IHC) 
 
