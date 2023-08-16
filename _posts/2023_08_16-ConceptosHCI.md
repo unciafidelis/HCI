@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Conceptos HCI"
-date:   2023-08-16 11:38:18 -0500
+title:  "Conceptos de HCI"
+date:   2023-08-16 11:17:14 -0500
 categories: HTML
 ---
 
