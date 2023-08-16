@@ -15,34 +15,34 @@ del problema de diseño identificado en un escenario de la vida cotidiana. </dd>
 
 ## 1. Fundamentos de Interacción Humano – Computadora (HCI) 
 <div style='text-align: justify, blockquote'>
-   <dd>a. Conceptos y definiciones <br>
-   b. Retrospectiva histórica <br>
-   c. Paradigmas de interacción <br></dd>
+   <dd>a. Conceptos y definiciones <br></dd>
+   <dd>b. Retrospectiva histórica <br></dd>
+   <dd>c. Paradigmas de interacción <br></dd>
 </div>
 ## 2. El factor humano
  <div style='text-align: justify, blockquote'>  
-   <dd>a. La psicología del diseño UX <br>
-   b. Sistemas Sensoriales <br>
-   c. La percepción <br>
-   d. La memoria <br>
-   e. Affordance <br></dd>
+   <dd>a. La psicología del diseño UX <br></dd>
+   <dd>b. Sistemas Sensoriales <br></dd>
+   <dd>c. La percepción <br></dd>
+   <dd>d. La memoria <br></dd>
+   <dd></dd>e. Affordance <br></dd>
  </div>
 ## 4. El Factor Tecnológico
 <div style='text-align: justify, blockquote'>   
-  <dd> a. Dispositivos tecnológicos <br>
-   b. Controles Físicos, sensores y dispositivos especiales <br>
-   c. Dispositivos para Realidad Extendida e Interacción 3D <br></dd>
+  <dd> a. Dispositivos tecnológicos <br></dd>
+  <dd> b. Controles Físicos, sensores y dispositivos especiales <br></dd>
+  <dd> c. Dispositivos para Realidad Extendida e Interacción 3D <br></dd>
 </div>
 ## 6. Estilos y Paradigmas de Interacción
 <div style='text-align: justify, blockquote'>
-  <dd> a. Estilos de Interacción <br>
-   b. Paradigmas de Interacción <br></dd>
+  <dd> a. Estilos de Interacción <br></dd>
+  <dd> b. Paradigmas de Interacción <br></dd>
 </div>
 ## 7. Diseño de la Interfaz de Usuario 
 <div style='text-align: justify, blockquote'>
-  <dd> a. Características principales de una IU <br>
-   b. Elementos importantes de una IU <br>
-   c. Principios, guías y patrones de diseño HCI <br></dd>
+  <dd> a. Características principales de una IU <br></dd>
+  <dd> b. Elementos importantes de una IU <br></dd>
+  <dd> c. Principios, guías y patrones de diseño HCI <br></dd>
 </div>
 ## 8. Tópicos adicionales en IHC 
 <div style='blockquote, text-align: justify, blockquote'>
