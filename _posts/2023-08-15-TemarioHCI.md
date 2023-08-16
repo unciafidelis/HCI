@@ -16,7 +16,7 @@ del problema de diseño identificado en un escenario de la vida cotidiana.
 ## 1. Fundamentos de Interacción Humano – Computadora (HCI) 
 
 a. [Conceptos y definiciones](https://unciafidelis.github.io/HCI/html/2023/08/16/ConceptosHCI.html) <br>
-b. Retrospectiva histórica <br>
+b. [Retrospectiva histórica](https://unciafidelis.github.io/HCI/html/2023/08/16/RetroHist.html) <br>
 c. Paradigmas de interacción <br>
 
 ## 2. El factor humano
