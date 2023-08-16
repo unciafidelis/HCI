@@ -7,6 +7,10 @@ categories: HTML
 
 ## Conceptos y Definiciones Fundamentales en Interacción Humano-Computador (HCI)
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p1ghnX7hRbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 La Interacción Humano-Computador (HCI por sus siglas en inglés) es un campo multidisciplinario que busca comprender y mejorar la relación entre los seres humanos y las computadoras. En un mundo cada vez más digitalizado, el diseño de interfaces y la experiencia de usuario (UX) se han convertido en aspectos cruciales para garantizar que la tecnología sea accesible, eficiente y satisfactoria para los usuarios. A continuación, exploraremos conceptos y definiciones clave en IHC para comprender mejor este apasionante campo.
 </div>
