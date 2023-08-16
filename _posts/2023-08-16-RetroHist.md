@@ -14,9 +14,11 @@ categories: HTML
 <div style='text-align: justify'>
 La historia de la Interacción Humano-Computador (HCI) es un relato fascinante de cómo los seres humanos han interactuado con las máquinas a lo largo de los años, desde los primeros días de la computación hasta la era actual de interfaces intuitivas y experiencia de usuario centrada en el usuario. Esta retrospectiva histórica nos llevará a través de los hitos clave que han dado forma a la HCI, explorando los avances tecnológicos, las teorías cognitivas y los enfoques de diseño que han transformado la manera en que interactuamos con las computadoras.
 </div><br>
-<div style='text-align: justify'>
+
+<div style='text-align: center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJ0sIHj-OWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
 ### Los Primeros Pasos: La Era de la Computación Temprana
 
 <div style='text-align: justify'>
