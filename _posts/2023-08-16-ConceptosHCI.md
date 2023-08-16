@@ -7,15 +7,15 @@ categories: HTML
 
 ## Conceptos y Definiciones Fundamentales en Interacción Humano-Computador (HCI)
 
-<div style='text-align: center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p1ghnX7hRbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
 <div style='text-align: justify'>
 La Interacción Humano-Computador (HCI por sus siglas en inglés) es un campo multidisciplinario que busca comprender y mejorar la relación entre los seres humanos y las computadoras. En un mundo cada vez más digitalizado, el diseño de interfaces y la experiencia de usuario (UX) se han convertido en aspectos cruciales para garantizar que la tecnología sea accesible, eficiente y satisfactoria para los usuarios. A continuación, exploraremos conceptos y definiciones clave en IHC para comprender mejor este apasionante campo.
 </div>
 
 ### 1. Interacción Humano-Computador (HCI):
+
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p1ghnX7hRbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style='text-align: justify'>
 La IHC se refiere al estudio de cómo los seres humanos interactúan con las computadoras y otros dispositivos tecnológicos. Busca diseñar y mejorar interfaces que faciliten la comunicación y el intercambio de información entre humanos y sistemas computacionales. La IHC abarca aspectos cognitivos, emocionales y físicos de la interacción, con el objetivo de crear experiencias eficientes y satisfactorias para los usuarios.
@@ -23,11 +23,19 @@ La IHC se refiere al estudio de cómo los seres humanos interactúan con las com
 
 ### 2. Interfaz de Usuario:
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlF28EoxvKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 Una interfaz de usuario es el punto de contacto entre un usuario y un sistema computacional. Puede ser visual, auditiva o táctil, y su diseño influye en cómo los usuarios interactúan con la tecnología. Una buena interfaz de usuario es intuitiva, fácil de usar y eficiente, permitiendo a los usuarios realizar tareas de manera efectiva y sin esfuerzo.
 </div>
 
 ### 3. Experiencia de Usuario (UX):
+
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7m8Ng3L6dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style='text-align: justify'>
 La UX se refiere a las emociones, percepciones y respuestas de un usuario al interactuar con un sistema. Incluye aspectos como la usabilidad, la accesibilidad, la estética y la satisfacción general. Una buena UX garantiza que los usuarios encuentren el sistema valioso, útil y agradable de usar, lo que puede influir en su lealtad y satisfacción a largo plazo.
