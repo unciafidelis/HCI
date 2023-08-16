@@ -7,49 +7,60 @@ categories: HTML
 # OBJETIVO GENERAL:
 
 <div style='text-align: justify'>
-<dd>El objetivo fundamental de esta asignatura es abordar los conceptos relacionados con los aspectos de la
+El objetivo fundamental de esta asignatura es abordar los conceptos relacionados con los aspectos de la
 disciplina de la Interacción Humano-Computadora, a través del aprendizaje obtenido en la disciplina, el
 estudiante desarrollará un caso práctico - proyecto integrador, el cual corresponde con la solución final
-del problema de diseño identificado en un escenario de la vida cotidiana. </dd>
+del problema de diseño identificado en un escenario de la vida cotidiana. 
 </div>
 
 ## 1. Fundamentos de Interacción Humano – Computadora (HCI) 
-<div style='text-align: justify, blockquote'>
-   <dd>a. Conceptos y definiciones <br></dd>
-   <dd>b. Retrospectiva histórica <br></dd>
-   <dd>c. Paradigmas de interacción <br></dd>
+
+<div style='text-align: justify'>
+a. Conceptos y definiciones <br>
+b. Retrospectiva histórica <br>
+c. Paradigmas de interacción <br>
 </div>
+
 ## 2. El factor humano
- <div style='text-align: justify, blockquote'>  
-   <dd>a. La psicología del diseño UX <br></dd>
-   <dd>b. Sistemas Sensoriales <br></dd>
-   <dd>c. La percepción <br></dd>
-   <dd>d. La memoria <br></dd>
-   <dd></dd>e. Affordance <br></dd>
+
+ <div style='text-align: justify'>  
+   <p>&nbsp;a. La psicología del diseño UX</p> <br>
+   <p>&nbsp;b. Sistemas Sensoriales</p> <br>
+   <p>&nbsp;c. La percepción</p> <br>
+   <p>&nbsp;d. La memoria</p> <br>
+   <p>&nbsp;e. Affordance</p> <br>
  </div>
+ 
 ## 4. El Factor Tecnológico
-<div style='text-align: justify, blockquote'>   
-  <dd> a. Dispositivos tecnológicos <br></dd>
-  <dd> b. Controles Físicos, sensores y dispositivos especiales <br></dd>
-  <dd> c. Dispositivos para Realidad Extendida e Interacción 3D <br></dd>
+
+<div style='text-align: justify'>   
+  <p>&nbsp;a. Dispositivos tecnológicos</p> <br>
+  <p>&nbsp;b. Controles Físicos, sensores y dispositivos especiales</p> <br>
+  <p>&nbsp;c. Dispositivos para Realidad Extendida e Interacción 3D</p> <br>
 </div>
+
 ## 6. Estilos y Paradigmas de Interacción
-<div style='text-align: justify, blockquote'>
-  <dd> a. Estilos de Interacción <br></dd>
-  <dd> b. Paradigmas de Interacción <br></dd>
+
+<div style='text-align: justify'>
+  <p>&nbsp;a. Estilos de Interacción</p> <br>
+  <p>&nbsp;b. Paradigmas de Interacción</p> <br>
 </div>
+
 ## 7. Diseño de la Interfaz de Usuario 
-<div style='text-align: justify, blockquote'>
-  <dd> a. Características principales de una IU <br></dd>
-  <dd> b. Elementos importantes de una IU <br></dd>
-  <dd> c. Principios, guías y patrones de diseño HCI <br></dd>
+
+<div style='text-align: justify'>
+  <p>&nbsp;a. Características principales de una IU</p> <br>
+  <p>&nbsp;b. Elementos importantes de una IU</p> <br>
+  <p>&nbsp;c. Principios, guías y patrones de diseño HCI</p> <br>
 </div>
+
 ## 8. Tópicos adicionales en IHC 
-<div style='blockquote, text-align: justify, blockquote'>
-  <dd> a. Investigación/desarrollo tecnológico en HCI <br></dd>
+<div style='blockquote, text-align: justify'>
+  <p>&nbsp;a. Investigación/desarrollo tecnológico en HCI</p> <br>
 </div>
+
 Bibliografía
-<div style='text-align: justify, blockquote'>
+
 [1. Human Computer Interaction. Alan Dix, Janet Finlay, Gregory D. Abowd, Rusell Beale, Third
 Edition, Pearson Prentice Hall, 2004.](https://paragnachaliya.in/wp-content/uploads/2017/08/HCI_Alan_Dix.pdf) <br>
 [2. Human-Computer Interaction, Fundamentals- Human Factors and Ergonomics. Andrew Sears,
@@ -60,4 +71,4 @@ Julie A. Jacko, CRC Press, Taylor & Francis Group, 2009.](https://books.google.c
 Kaufman/Elsevier, 2013.](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655) <br>
 [6. La Interacción Humano Computadora en México, Jaime Muñoz Arteaga, Juan Manuel González
 Calleros, Alfredo Sánchez Huitrón. Pearson Educación México, 2015.](https://isbn.cloud/9786073237239/la-interaccion-humano-computadora-en-mexico/) <br>
-</div>
+
