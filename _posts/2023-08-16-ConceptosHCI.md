@@ -52,11 +52,19 @@ La usabilidad se refiere a la facilidad con la que los usuarios pueden aprender 
 
 ### 5. Diseño Centrado en el Usuario:
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwgDklH0UdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 El diseño centrado en el usuario es un enfoque que coloca las necesidades y expectativas del usuario en el centro del proceso de diseño. Implica la comprensión profunda de los usuarios, sus metas y contextos, y la creación de soluciones que se adapten a sus requerimientos. Este enfoque garantiza que las interfaces sean relevantes y valiosas para los usuarios finales.
 </div>
 
 ### 6. Patrones de Diseño:
+
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwfuydUHZ7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style='text-align: justify'>
 Los patrones de diseño son soluciones recurrentes a problemas de diseño comunes. Son enfoques probados y eficaces para resolver desafíos específicos en la IHC, como la disposición de elementos en pantalla, la navegación y la interacción. Los patrones de diseño ayudan a crear interfaces coherentes y predecibles, facilitando la comprensión por parte de los usuarios.
@@ -64,11 +72,19 @@ Los patrones de diseño son soluciones recurrentes a problemas de diseño comune
 
 ### 7. Accesibilidad:
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ECZ4Jmntdxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 La accesibilidad se refiere a la capacidad de un sistema para ser utilizado por personas con diversas capacidades y discapacidades. Un diseño accesible garantiza que todos los usuarios, incluidos aquellos con discapacidades visuales, auditivas o motoras, puedan interactuar de manera efectiva con la tecnología.
 </div>
 
 ### 8. Diseño Emocional:
+
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VX2BDA3SAdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style='text-align: justify'>
 El diseño emocional busca crear interfaces que generen respuestas emocionales positivas en los usuarios. Considera aspectos como la estética, el color, la tipografía y el lenguaje visual para crear conexiones emocionales y atractivas. Un diseño emocionalmente agradable puede influir en la percepción del usuario sobre la calidad y utilidad del sistema.
@@ -76,31 +92,19 @@ El diseño emocional busca crear interfaces que generen respuestas emocionales p
 
 ### 9. Pruebas de Usabilidad:
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xVd7Qiq0-AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 Las pruebas de usabilidad son métodos para evaluar cómo los usuarios interactúan con un sistema. Implican la observación de usuarios mientras realizan tareas específicas y la recopilación de datos sobre su rendimiento y reacciones. Las pruebas de usabilidad permiten identificar problemas de diseño y realizar mejoras basadas en la retroalimentación del usuario.
 </div>
 
-### 10. Diseño Responsivo:
+## 10. Affordance en HCI:
 
-<div style='text-align: justify'>
-El diseño responsivo implica crear interfaces que se adapten a diferentes dispositivos y tamaños de pantalla. Garantiza que la experiencia del usuario sea consistente y efectiva en una variedad de plataformas, desde computadoras de escritorio hasta dispositivos móviles.
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/POuSiTrlSuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-### 11. Ética en la HCI:
-
-<div style='text-align: justify'>
-La ética en la HCI se refiere a consideraciones morales al diseñar sistemas interactivos. Esto incluye abordar cuestiones como la privacidad, la seguridad de los datos, la equidad y la inclusión. Los diseñadores deben ser conscientes de las implicaciones éticas de sus decisiones y esforzarse por crear sistemas que respeten los valores y derechos de los usuarios.
-</div>
-
-### 12. Retroalimentación del Usuario:
-
-<div style='text-align: justify'>
-La retroalimentación del usuario es esencial para mejorar continuamente las interfaces y la experiencia de usuario. Implica recopilar opiniones, comentarios y sugerencias de los usuarios para identificar áreas de mejora y tomar decisiones informadas en el diseño.
-</div>
-
-## 13. Affordance en HCI
-
-**Concepto de Affordance en Interacción Humano-Computador (HCI)**
 
 <div style='text-align: justify'>
 La noción de "affordance" en el campo de la Interacción Humano-Computador (HCI) se origina en la teoría de la percepción y la acción desarrollada por el psicólogo James J. Gibson en la década de 1960. En el contexto de la IHC, el término "affordance" se refiere a las propiedades perceptibles y funcionales de un objeto, elemento o interfaz que sugieren y facilitan las acciones posibles que los usuarios pueden realizar con él.
