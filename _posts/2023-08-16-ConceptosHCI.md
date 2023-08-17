@@ -43,6 +43,10 @@ La UX se refiere a las emociones, percepciones y respuestas de un usuario al int
 
 ### 4. Usabilidad:
 
+<div style='text-align: center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_4xs1n4wCEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style='text-align: justify'>
 La usabilidad se refiere a la facilidad con la que los usuarios pueden aprender a usar un sistema, realizar tareas y navegar por la interfaz. Los principios de usabilidad incluyen la eficiencia, la efectividad, la satisfacción del usuario y la facilidad de aprendizaje. Un sistema con alta usabilidad es aquel en el que los usuarios pueden lograr sus objetivos de manera eficiente y con mínima frustración.</div>
 
