@@ -108,18 +108,14 @@ Las pruebas de usabilidad son métodos para evaluar cómo los usuarios interact�
 
 <div style='text-align: justify'>
 La noción de "affordance" en el campo de la Interacción Humano-Computador (HCI) se origina en la teoría de la percepción y la acción desarrollada por el psicólogo James J. Gibson en la década de 1960. En el contexto de la IHC, el término "affordance" se refiere a las propiedades perceptibles y funcionales de un objeto, elemento o interfaz que sugieren y facilitan las acciones posibles que los usuarios pueden realizar con él.
-</div>
+</div><br>
 
 <div style='text-align: justify'>
-Formalmente, se puede definir la affordance como:
-</div>
-
-<div style='text-align: justify'>
-**Definición:** *Affordance es una propiedad inherente y perceptible de un objeto, componente o sistema interactivo que comunica y facilita las acciones y comportamientos que los usuarios pueden llevar a cabo con dicho elemento. Estas propiedades emergen de las características físicas, visuales y contextuales del objeto y brindan indicaciones claras sobre las interacciones posibles, sin necesidad de instrucciones explícitas.*
-</div>
+Affordance es una propiedad inherente y perceptible de un objeto, componente o sistema interactivo que comunica y facilita las acciones y comportamientos que los usuarios pueden llevar a cabo con dicho elemento. Estas propiedades emergen de las características físicas, visuales y contextuales del objeto y brindan indicaciones claras sobre las interacciones posibles, sin necesidad de instrucciones explícitas.
+</div><br>
 
 <div style='text-align: justify'>
 La affordance se basa en la idea de que las características de un objeto o interfaz pueden comunicar su uso potencial de manera intuitiva. Por ejemplo, un botón resaltado en una interfaz gráfica de usuario (GUI) puede indicar claramente que se espera que los usuarios lo presionen. Una puerta con una manija sugiere que debe ser tirada, mientras que una palanca invita a ser accionada hacia arriba o hacia abajo.
-</div>
+</div><br>
 
 <div style='text-align: justify'>En IHC, reconocer y aplicar affordances es esencial para el diseño efectivo de interfaces. Los diseñadores buscan crear elementos visuales y funcionales que sean coherentes con las expectativas y conocimientos previos de los usuarios, lo que facilita una interacción intuitiva y fluida. La identificación de affordances relevantes contribuye a la usabilidad, ya que reduce la necesidad de aprendizaje y minimiza la posibilidad de errores.</div>
