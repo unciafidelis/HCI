@@ -17,7 +17,7 @@ del problema de diseño identificado en un escenario de la vida cotidiana.
 
 a. [Conceptos y definiciones](https://unciafidelis.github.io/HCI/html/2023/08/16/ConceptosHCI.html) <br>
 b. [Retrospectiva histórica](https://unciafidelis.github.io/HCI/html/2023/08/16/RetroHist.html) <br>
-c. Paradigmas de interacción <br>
+c. [Paradigmas de interacción](https://unciafidelis.github.io/HCI/html/2023/08/23/Paradigm.html) <br>
 
 ## 2. El factor humano
 
