@@ -22,7 +22,7 @@ c. [Paradigmas de interacción](https://unciafidelis.github.io/HCI/html/2023/08/
 ## 2. El factor humano
 
    a. [La psicología del diseño UX](https://unciafidelis.github.io/HCI/html/2023/09/04/psyUX.html)<br>
-   b. Sistemas Sensoriales <br>
+   b. [Sistemas Sensoriales](https://unciafidelis.github.io/HCI/html/2023/09/04/SisSen.html) <br>
    c. La percepción <br>
    d. La memoria <br>
    e. Affordance <br>
